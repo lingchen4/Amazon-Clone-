@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lingchen4/Amazon-Clone-/static/css/main.56b5a28f.chunk.css",
+    "main.js": "/lingchen4/Amazon-Clone-/static/js/main.6c707105.chunk.js",
+    "main.js.map": "/lingchen4/Amazon-Clone-/static/js/main.6c707105.chunk.js.map",
+    "runtime-main.js": "/lingchen4/Amazon-Clone-/static/js/runtime-main.03c9a23b.js",
+    "runtime-main.js.map": "/lingchen4/Amazon-Clone-/static/js/runtime-main.03c9a23b.js.map",
+    "static/js/2.bb328dfa.chunk.js": "/lingchen4/Amazon-Clone-/static/js/2.bb328dfa.chunk.js",
+    "static/js/2.bb328dfa.chunk.js.map": "/lingchen4/Amazon-Clone-/static/js/2.bb328dfa.chunk.js.map",
+    "index.html": "/lingchen4/Amazon-Clone-/index.html",
+    "precache-manifest.5e33f0e9590e53959a6b250e4fe4294d.js": "/lingchen4/Amazon-Clone-/precache-manifest.5e33f0e9590e53959a6b250e4fe4294d.js",
+    "service-worker.js": "/lingchen4/Amazon-Clone-/service-worker.js",
+    "static/css/main.56b5a28f.chunk.css.map": "/lingchen4/Amazon-Clone-/static/css/main.56b5a28f.chunk.css.map",
+    "static/js/2.bb328dfa.chunk.js.LICENSE.txt": "/lingchen4/Amazon-Clone-/static/js/2.bb328dfa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03c9a23b.js",
+    "static/js/2.bb328dfa.chunk.js",
+    "static/css/main.56b5a28f.chunk.css",
+    "static/js/main.6c707105.chunk.js"
+  ]
+}
